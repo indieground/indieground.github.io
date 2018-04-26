@@ -10,7 +10,7 @@ var links = ["http://www.amania.org/Images/125_007.jpg",
 "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9PMn_rmLvaMgnWq_u5WKWwEX8yhmuMS-OaYt6-SPK8HmInKd-QJJmC98",
  "http://transnerud.com/%D0%B3%D1%80%D1%83%D0%BD%D1%82.jpg",
 "http://4put.ru/pictures/max/648/1990850.jpg",
-"http://drobs.ru/opyat/17/grunt_1920x1200.jpg",
+"https://staticdelivery.nexusmods.com/mods/1704/images/thumbnails/15796/15796-1520982662-1621190144.png",
 "http://4put.ru/pictures/max/648/1990879.jpg",
 "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjcKkk5vhTn88FTCFI_5xYK6PDONvwe_yjyiz4TddbFEXmytqp"];
 function general(){
